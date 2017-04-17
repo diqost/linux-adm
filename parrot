@@ -1,4 +1,5 @@
 !#/bin/bash
-echo  "sam ti" $1
+echo  "sam ti" $2
+
 
 
