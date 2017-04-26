@@ -1,0 +1,6 @@
+#!/bin/bash
+for mnoz in 1 2 3 4 5 6 7 8 9 10
+do
+	echo `expr $1*$mnoz`=$(($1*$mnoz))
+done
+
